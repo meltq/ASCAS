@@ -1,5 +1,4 @@
 __pycache__/
-*.keras
 .venv/
 data/
 generate.py
